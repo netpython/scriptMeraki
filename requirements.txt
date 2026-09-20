@@ -1,0 +1,5 @@
+meraki>=1.57,<2
+PyYAML>=6.0,<7
+openpyxl>=3.1,<4
+rich>=13.9,<15
+
