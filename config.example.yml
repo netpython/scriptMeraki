@@ -1,0 +1,18 @@
+organization_id: "123456"
+network_tags:
+  - vessel
+  - office
+  - terminal
+  - production
+  - guest
+  - lab
+  - spare
+  - site
+device_tags:
+  production_switch: prod_sw
+  production_ap: prod_ap
+  uplink: uplink
+  downlink: downlink
+poe_access_ports:
+  default: 48
+
