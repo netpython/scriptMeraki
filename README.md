@@ -54,3 +54,6 @@ Les exports sont écrits dans `outputs/` aux formats CSV, JSON ou XLSX. Les scri
 
 MIT.
 
+## Programmes avancés
+
+Le dossier `programs/` contient cinq audits complets : conformité organisationnelle, capacité/PoE, sécurité Wi-Fi, Client Explorer et firmware/cycle de vie.
